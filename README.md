@@ -5,7 +5,7 @@ Name: `Kevin Stine`
 
 ONID ID: `stinek`
 
-Link to my CS 290 page: `https://github.com/OSU-CS290-F16/assignment-0-ikaikastine`
+Link to my CS 290 page: `http://web.engr.oregonstate.edu/~stinek/cs290/`
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
